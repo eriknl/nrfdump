@@ -64,4 +64,4 @@ This technique was earlier described in the following blog post:
   
 [Firmware dumping technique for an ARM Cortex-M0 SoC](http://blog.includesecurity.com/2015/11/NordicSemi-ARM-SoC-Firmware-dumping-technique.html)
   
-
+Forked and updated to remove dependency on telnetlib and have some speed improvements at the same time
